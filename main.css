@@ -18,7 +18,7 @@
         width: 100%;
     }
 
-    #main {
+    #main  {
         width: 60%;
     }
 
@@ -31,24 +31,26 @@
         margin-left: auto;
         margin-right: auto;
         font-family:'Lilita One', cursive ;
-        color: #800020 ;
+        color:#FFF ;
         font-size:20px;
         text-transform: uppercase;
-        border: solid 10px black;
+        border: solid 10px white;
         padding-top: ;
     }
 
     body {
-        background-color: ;
+        background-image: url( "https://images.gamewatcherstatic.com/image/file/8/68/103298/ghost-recon-breakpoint_6077892.jpg") ;
         margin: 0;
         font-family:'Lilita One', cursive;
         font-size:  20px ;
+
     }
 
     #nav a {
         font-family: 'Lilita One', cursive;
         font-weight: bold;
-        color:#800020;
+        color:#FFF
+        ;
         text-transform: uppercase;
         margin-right: 10px;
         padding: 10px;
@@ -63,4 +65,18 @@
         float: right;
         margin-left: 15;
     }
-    
+    a{
+        color: white;
+    }
+    h1 {
+    font-family: 'Stoke', serif;
+    font-size: 50px;
+    color:white;
+    }
+     
+     h2 {
+    font-family: 'Stoke', serif; 
+    font-size: 30px;
+    color:white; 
+    }
+
